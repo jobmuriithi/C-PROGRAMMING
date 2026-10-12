@@ -1,0 +1,14 @@
+# Compiled output
+bin/
+*.exe
+*.out
+*.o
+
+# Runtime-generated data files
+borrowed_books.txt
+results.dat
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
